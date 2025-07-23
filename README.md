@@ -17,8 +17,7 @@ The dataset used in this project is hosted on Kaggle:
 
 Explore the interactive Tableau dashboard created for this case study, which visualizes key patterns and comparisons between casual riders and subscribers.
 
-🔗 [View Full Dashboard on Tableau Public](https://public.tableau.com/views/Divvy_Bikes_17529226015460/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<img width="1925" height="74" alt="image" src="https://github.com/user-attachments/assets/d9e2590f-9718-493e-b043-d83c84d6deea" />
-)
+🔗 [View Full Dashboard on Tableau Public](https://public.tableau.com/views/Divvy_Bikes_17529226015460/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## 🛠️ Tools Used:
