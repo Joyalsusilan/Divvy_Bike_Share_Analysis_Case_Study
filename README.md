@@ -12,6 +12,13 @@ The dataset used in this project is hosted on Kaggle:
 
 🔗 [Click here to view the dataset](https://www.kaggle.com/datasets/joyalsusilan/divvy-bike-trips-q1-20192020)
 
+## 📊 Tableau Dashboard: Divvy Bike-Share Analysis (Q1 2019 vs Q1 2020)
+
+Explore the interactive Tableau dashboard created for this case study, which visualizes key patterns and comparisons between casual riders and subscribers.
+
+🔗 [View Full Dashboard on Tableau Public](https://public.tableau.com/views/DivvyBikeShareDashboard/Overview)
+
+
 ## 🛠️ Tools Used:
 - Python (Pandas, Matplotlib, Seaborn)
 - SQL (Google BigQuery)
