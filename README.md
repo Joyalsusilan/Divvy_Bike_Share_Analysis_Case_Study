@@ -1,5 +1,27 @@
-## 📁 Dataset
+# 🚲 Divvy Bike Share Case Study: Q1 2019 vs Q1 2020
 
-The cleaned dataset used in this project is available on Kaggle:
+This project analyzes bike-sharing usage trends in Chicago using Divvy trip data from the first quarters of 2019 and 2020. The goal is to understand the differences in behavior between casual riders and subscribers to support business strategies for user conversion and engagement.
+
+## 📊 Key Highlights:
+- Compared ride patterns by user type
+- Explored differences in trip duration, days of week, and time of day
+- Identified key trends for targeting casual riders
+
+## 📁 Dataset:
+The dataset used in this project is hosted on Kaggle:
 
 🔗 [Click here to view the dataset](https://www.kaggle.com/datasets/joyalsusilan/divvy-bike-trips-q1-20192020)
+
+## 🛠️ Tools Used:
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Google Sheets / Excel (optional)
+- Tableau / Power BI (for dashboard visualization)
+
+## 📌 Author:
+**Joyal Susilan**
+
+📅 July 2025
+
+
+
