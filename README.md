@@ -14,7 +14,6 @@ The dataset used in this project is hosted on Kaggle:
 
 ## 🛠️ Tools Used:
 - Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
 - SQL (Google BigQuery)
 - Google Sheets
 - Tableau (for dashboard visualization)
