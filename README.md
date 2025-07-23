@@ -15,8 +15,9 @@ The dataset used in this project is hosted on Kaggle:
 ## 🛠️ Tools Used:
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Google Sheets / Excel (optional)
-- Tableau / Power BI (for dashboard visualization)
+- SQL (Google BigQuery)
+- Google Sheets
+- Tableau (for dashboard visualization)
 
 ## 📌 Author:
 **Joyal Susilan**
